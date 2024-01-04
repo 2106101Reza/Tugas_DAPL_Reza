@@ -1,4 +1,4 @@
-name: tugas-github-action-reza
+name: tugas_dapl_reza
 run-name: ${{ github.actor }} Belajar GitHub Action Dapl
 on: [push]
 jobs:
