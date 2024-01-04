@@ -1,4 +1,4 @@
-name: tugas_dapl_reza
+name: tugas-github-action
 run-name: ${{ github.actor }} Belajar GitHub Action
 on: [push]
 jobs:
@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: 2106101Reza/tugas_dapl_reza:latest
+          tags: yusupmuhamad/test-action:latest
