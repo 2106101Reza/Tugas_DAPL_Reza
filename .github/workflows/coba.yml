@@ -1,5 +1,5 @@
 name: tugas-github-action-reza
-run-name: ${{ github.actor }} Belajar GitHub Action Dapl
+run-name: ${{ github.actor }} Belajar GitHub Action Dapl reza
 on: [push]
 jobs:
   unit-test:
